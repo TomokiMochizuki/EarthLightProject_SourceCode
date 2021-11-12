@@ -1,0 +1,6 @@
+*.TXT
+*/.ipynb_checkpoints/*
+*/__pycache__/
+*.csv
+*.kml
+*/data/*
